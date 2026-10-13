@@ -1,0 +1,4 @@
+interface:
+  display_name: "书稿图片黑白优化"
+  short_description: "将彩色书稿图片重建为适合黑白印刷的SVG与可编辑PPT，并核对原文和坐标"
+  default_prompt: "请使用 $book-figure-bw 优化这张书稿图片的黑白打印效果，先生成无文字矢量底图，再按原坐标回填文字，并交付可编辑PPT。"
